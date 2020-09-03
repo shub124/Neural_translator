@@ -1,0 +1,21 @@
+body{
+  /* display:inline-block; */
+  /* flex-direction: row; */
+  /* align-items: center; */
+  justify-content: center;
+  height: 100vh;
+  font-family: Montserrat;
+  background: #313E50;
+}
+h1{
+  color: white;
+  text-align: center;
+  /* margin-left:200px; */
+  /* padding-left: 50px; */
+  padding-top:40px;
+}
+
+.content{
+padding:20px;
+margin-left: 150px;
+}
